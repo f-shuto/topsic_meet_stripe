@@ -13,7 +13,7 @@ Stripeで申込から決済までオンラインでできるようにしたら�
 
 ---
 
-![SI](img/si.jpgs)
+![SI](img/si.jpg)
 
 ---
 
