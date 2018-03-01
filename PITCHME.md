@@ -128,4 +128,4 @@ Stripeで申込から決済までオンラインでできるようにしたら�
 ![Logo](img/tsimage_last.png)
 
 https://products.sint.co.jp/topsic
-- トライアルもあります
+- トライアルもあります！
