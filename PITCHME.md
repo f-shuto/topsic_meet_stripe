@@ -25,7 +25,7 @@ Stripeで申込から決済までオンラインでできるようにしたら�
 
 ---
 
-## TOSPIC
+# TOPSIC
 
 ![Logo](img/tsimage.png)
 
