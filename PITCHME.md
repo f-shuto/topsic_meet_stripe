@@ -26,7 +26,7 @@ Stripeで申込から決済までオンラインでできるようにしたら�
 
 ---
 
-#### TOPSIC　2018/01/10~
+### TOPSIC　2018/01/10~
 
 
 ![Logo](img/tsimage.png)
