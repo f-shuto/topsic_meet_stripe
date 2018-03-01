@@ -125,7 +125,7 @@ Stripeで申込から決済までオンラインでできるようにしたら�
 
 ## ご清聴ありがとうございました
 
-![Logo](img/tsimage.png)
+![Logo](img/tsimage_last.png)
 
 https://products.sint.co.jp/topsic
 - トライアルもあります
